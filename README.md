@@ -1,7 +1,3 @@
-Here’s the corrected and updated `README.md` file with the accurate **Demo** section and other improvements:
-
----
-
 # 🤖 AI Agent Assistant - Streamlit App
 
 A **powerful AI assistant** powered by **Gemini** and built using the **[smolagents](https://github.com/Rizwankaka/smolagents/tree/main)** framework. This app helps you with various tasks, including **stock analysis**, **weather information**, and **general queries**. It provides an interactive and user-friendly interface to interact with an AI agent capable of performing web searches, fetching real-time stock data, and answering general questions.
