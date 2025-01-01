@@ -22,7 +22,7 @@ A **powerful AI assistant** powered by **Gemini** and built using the **[smolage
 
 ## 🚀 Demo
 
-![App Demo]([https://raw.githubusercontent.com/Rizwankaka/smolagents/main/demo.gif](https://smolagents-rizwan.streamlit.app/))
+![App Demo](https://smolagents-rizwan.streamlit.app/)
 
 ---
 
