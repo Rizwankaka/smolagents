@@ -1,4 +1,4 @@
-Here’s the updated and professional `README.md` file tailored specifically for your GitHub repository **[smolagents](https://github.com/Rizwankaka/smolagents/tree/main)**:
+Here’s the corrected and updated `README.md` file with the accurate **Demo** section and other improvements:
 
 ---
 
@@ -22,7 +22,7 @@ A **powerful AI assistant** powered by **Gemini** and built using the **[smolage
 
 ## 🚀 Demo
 
-![App Demo](https://smolagents-rizwan.streamlit.app/)
+Try the live app here: **[AI Agent Assistant](https://smolagents-rizwan.streamlit.app/)**
 
 ---
 
@@ -151,4 +151,4 @@ If you find this project helpful, please give it a ⭐️ on [GitHub](https://gi
 
 ---
 
-This version is fully customized for your repository and includes all necessary links and references. Let me know if you need further adjustments!
+This version now includes the correct **Demo** link to your live app: **[https://smolagents-rizwan.streamlit.app/](https://smolagents-rizwan.streamlit.app/)**. Let me know if you need further adjustments!
