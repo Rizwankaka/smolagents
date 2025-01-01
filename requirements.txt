@@ -1,0 +1,7 @@
+smolagents
+streamlit
+python-dotenv
+litellm
+tensorflow
+yfinance
+pydantic
